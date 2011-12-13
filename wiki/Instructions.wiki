@@ -2,12 +2,10 @@
 
 = Instructions =
 
-Add your content here.
+Download the windows installer.
+Make sure you have .NET 4.0
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Please visit http://www.routerjanitor.com/2011/12/how-to-print-safety-sheets-instructions.html for the story and the instructions.
