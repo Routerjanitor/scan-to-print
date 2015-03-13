@@ -1,0 +1,11 @@
+#Instructions.
+
+# Instructions #
+
+Download the windows installer.
+Make sure you have .NET 4.0
+
+
+# Details #
+
+Please visit http://www.routerjanitor.com/2011/12/how-to-print-safety-sheets-instructions.html for the story and the instructions.

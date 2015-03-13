@@ -1,0 +1,3 @@
+Basic use for this application is the example where your warehouse has to add a small manual or safety sheet to an order.
+Those manuals and safety sheets are changed on a regular basis and thus we were throwing away alot of paper.
+What we do now is we have added a code128 with the path / filename of the document to be printed to the bottom of the pickers list.  When they have collected all items they go to a PC and scan those last lines so they just have to pick up the printed items from the printer.
